@@ -1,3 +1,4 @@
+![Cover](assets/images/Cover.png)
 # Libris, a book library app 📚
 
 This is a library app built with React Native and OpenLibrary. 
